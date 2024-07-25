@@ -6,4 +6,4 @@
   <img src="https://github.com/EllianCampos/animated-words-react-native/blob/master/assets/images/result/result3.png?raw=true" alt="result1" style="width: 30%;">
 </div>
 
-[![Watch the video](https://github.com/EllianCampos/animated-words-react-native/blob/master/assets/images/result/result3.png?raw=true)](https://github.com/EllianCampos/animated-words-react-native/blob/master/assets/images/result/resultvideo.mp4)
+[![Watch the video](https://youtube.com/shorts/NG0gAv1Vh1A?feature=share)
