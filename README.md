@@ -6,9 +6,4 @@
   <img src="https://github.com/EllianCampos/animated-words-react-native/blob/master/assets/images/result/result3.png?raw=true" alt="result1" style="width: 30%;">
 </div>
 
-<iframe
-  id="inlineFrameExample"
-  title="Watch the vide"
-  width="300"
-  src="https://youtube.com/shorts/NG0gAv1Vh1A?feature=share">
-</iframe>
+[![Video Title](https://img.youtube.com/vi/NG0gAv1Vh1A/0.jpg)](https://www.youtube.com/watch?v=NG0gAv1Vh1A)
