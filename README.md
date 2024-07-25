@@ -5,3 +5,5 @@
   <img src="https://github.com/EllianCampos/animated-words-react-native/blob/master/assets/images/result/result1.png?raw=true" alt="result1" style="width: 30%;">
   <img src="https://github.com/EllianCampos/animated-words-react-native/blob/master/assets/images/result/result3.png?raw=true" alt="result1" style="width: 30%;">
 </div>
+
+[![Watch the video](https://github.com/EllianCampos/animated-words-react-native/blob/master/assets/images/result/result3.png?raw=true)](https://github.com/EllianCampos/animated-words-react-native/blob/master/assets/images/result/resultvideo.mp4)
